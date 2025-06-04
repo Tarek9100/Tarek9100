@@ -1,6 +1,6 @@
 <h1 align="center">💫 About Me</h1>
 <p align="center">
-  I'm a DevOps and Site Reliability Engineer driven by a passion for building fault-tolerant, scalable, and secure systems. My engineering journey blends cloud infrastructure, automation, observability, and performance tuning—delivering real-world solutions for mission-critical environments. Whether it's Kubernetes orchestration, CI/CD automation, or distributed systems design, I enjoy eliminating toil and scaling reliability with code.
+  I'm a DevOps and Site Reliability Engineer driven by a passion for building fault-tolerant, scalable, and secure systems. My engineering journey blends cloud infrastructure, automation, observability, and performance tuning, delivering real-world solutions for mission-critical environments. Whether it's Kubernetes orchestration, CI/CD automation, or distributed systems design, I enjoy eliminating toil and scaling reliability with code.
   <br><br>
   <a href="mailto:tareki9100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
@@ -119,7 +119,7 @@
 <h1 align="center">🛠️ Competences</h1>
 <p align="center">
   <strong>Programming:</strong> C/C++, Python, Golang, Bash, OOP  
-  <br><strong>DevOps & Cloud:</strong> Kubernetes, AWS, GCP, Docker, Terraform, Ansible, Jenkins, Helm, Tekton, ArgoCD  
+  <br><strong>DevOps & Cloud:</strong> Kubernetes, AWS, GCP, Azure, Docker, Terraform, Ansible, Jenkins, Helm, Tekton, ArgoCD  
   <br><strong>Observability:</strong> Prometheus, Grafana, Fluent Bit, ELK Stack, Datadog, Loki  
   <br><strong>Messaging:</strong> Kafka, RabbitMQ, MQTT  
   <br><strong>Languages:</strong> Arabic (Native), English (C1), German (B1), French (A1)
